@@ -39,8 +39,6 @@ FizzBuzz
 1. **Write your code** in the fizzbuzz.py file
 1. Optional: test your code on your machine using the automated testing (explained below)
 1. **Add, Commit, and Push** your code to GitHub
-1. **Create a Pull Request** to merge your code back to the original repo
-1. Wait for feedback on the Pull Request from a mentor
 
 ### Optional: Automated Code Testing
 
