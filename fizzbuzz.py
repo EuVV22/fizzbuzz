@@ -1,5 +1,5 @@
 # add your code here
-for x in range(1, 10):
+for x in range(1, 101):
     # select number to print 
     number = x
     # check if is fizz
